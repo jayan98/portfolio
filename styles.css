@@ -1,0 +1,160 @@
+.top {
+  background-color: #7fdbda;
+  position: relative;
+  padding-top: 100px;
+  color: #40514E;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #150485;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #150485;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-size: 1.5rem;
+}
+
+p {
+  line-height: 2;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.jp {
+  border-radius: 130%;
+  height: auto;
+  width: 130px;
+  margin-top: 10px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+  padding: 30px;
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  color: #11999E;
+  left: 550px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 490px;
+  top: 50px;
+  width: 10%;
+}
+
+.coding {
+  border-radius: 100%;
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.apps {
+  border-radius: 100%;
+  width: 30%;
+  float: right;
+  margin-bottom: 50px;
+  margin-left: 30px;
+}
+
+hr {
+  clear:both;
+  border-style: none;
+  border-top-style: dotted;
+  height: 2px;
+  width: 7%;
+  border-color: #7fdbda;
+  border-width: 7px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+
+.contact-message {
+  width: 30%;
+  margin: auto;
+  margin-bottom: 40px;
+}
+
+.online-info {
+  width: 30%;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+.bottom-container{
+  background-color: #7fdbda;
+  height: 200px;
+  position: absolute;
+  width: 100%;
+  padding: 50px 0 20px;
+}
+
+.button {
+  background-color: #7fdbda;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin-bottom: 20px;
+  border-radius: 50%;
+}
+
+.footer-link {
+  margin-bottom: 75px;
+  font-size: 20px;
+  margin-right: 10px;
+  text-align: center;
+}
+
+a{
+  color: white;
+  font-family: 'Merriweather', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #150485;
+}
+
+.copyright{
+  color: white;
+  font-size: 25px;
+  margin-top: 125px;
+}
